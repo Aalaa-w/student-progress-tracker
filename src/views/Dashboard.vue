@@ -6,7 +6,7 @@
     ]"
   >
     <div
-      class="info-card bg-blue-300 text-white dark:bg-blue-900 min-h-[170px]"
+      class="info-card bg-blue-300 text-white dark:bg-blue-900 sm:min-h-[170px] min-h-[150px]"
       role="region"
       aria-label="Total number of students"
     >
@@ -15,7 +15,7 @@
     </div>
 
     <div
-      class="info-card bg-purple-300 text-white dark:bg-purple-900"
+      class="info-card bg-purple-300 text-white dark:bg-purple-900 sm:min-h-[170px] min-h-[150px]"
       role="region"
       aria-label="Popular Courses"
     >
@@ -25,7 +25,7 @@
 
     <div
       v-if="roleText === 'Administrator'"
-      class="info-card bg-orange-300 dark:bg-orange-900 text-white"
+      class="info-card bg-orange-300 dark:bg-orange-900 text-white sm:min-h-[170px] min-h-[150px]"
       role="region"
       aria-label="Total number of Teachers"
     >
@@ -40,57 +40,61 @@
       v-if="roleText === 'Administrator'"
     >
       <h3 class="text-lg font-semibold text-gray mb-4 dark:text-white">Top Teachers</h3>
-      <table class="min-w-full" role="table" aria-label="Top Teachers table">
-        <thead class="bg-blue-100 text-blue-800">
-          <tr role="row">
-            <th role="columnheader" scope="col" class="p-2 text-left">#</th>
-            <th role="columnheader" scope="col" class="p-2 text-left">Name</th>
-            <th role="columnheader" scope="col" class="p-2 text-left">Subject</th>
-            <th role="columnheader" scope="col" class="p-2 text-left">Email</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr
-            v-for="(teacher, index) in teacherStore.teachers"
-            :key="teacher.id"
-            class="border-b hover:bg-blue-50 dark:hover:bg-blue-900 dark:text-white"
-            tabindex="0"
-            @keydown.enter="() => {}"
-          >
-            <td class="p-2">{{ index + 1 }}</td>
-            <td class="p-2">{{ teacher.name }}</td>
-            <td class="p-2">{{ teacher.subject }}</td>
-            <td class="p-2 font-semibold text-blue-700">{{ teacher.email }}%</td>
-          </tr>
-        </tbody>
-      </table>
+      <div class="auto-scroll-table">
+        <table class="min-w-full" role="table" aria-label="Top Teachers table">
+          <thead class="bg-blue-100 text-blue-800">
+            <tr role="row">
+              <th role="columnheader" scope="col" class="p-2 text-left">#</th>
+              <th role="columnheader" scope="col" class="p-2 text-left">Name</th>
+              <th role="columnheader" scope="col" class="p-2 text-left">Subject</th>
+              <th role="columnheader" scope="col" class="p-2 text-left">Email</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              v-for="(teacher, index) in teacherStore.teachers"
+              :key="teacher.id"
+              class="border-b hover:bg-blue-50 dark:hover:bg-blue-900 dark:text-white"
+              tabindex="0"
+              @keydown.enter="() => {}"
+            >
+              <td class="p-2">{{ index + 1 }}</td>
+              <td class="p-2">{{ teacher.name }}</td>
+              <td class="p-2">{{ teacher.subject }}</td>
+              <td class="p-2 font-semibold text-blue-700">{{ teacher.email }}%</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
     </section>
     <section class="mt-6 bg-white dark:bg-black p-4 rounded-lg p-4">
       <h3 class="text-lg font-semibold text-gray mb-4 dark:text-white">Top Students</h3>
-      <table class="min-w-full">
-        <thead class="bg-blue-100 text-blue-800" role="table" aria-label="Top Students table">
-          <tr role="row">
-            <th role="columnheader" scope="col" class="p-2 text-left">#</th>
-            <th role="columnheader" scope="col" class="p-2 text-left">Name</th>
-            <th role="columnheader" scope="col" class="p-2 text-left">Grade</th>
-            <th role="columnheader" scope="col" class="p-2 text-left">Progress</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr
-            v-for="(student, index) in topStudents"
-            :key="student.id"
-            class="border-b hover:bg-blue-50 dark:hover:bg-blue-900 dark:text-white"
-            tabindex="0"
-            @keydown.enter="() => {}"
-          >
-            <td class="p-2">{{ index + 1 }}</td>
-            <td class="p-2">{{ student.name }}</td>
-            <td class="p-2">{{ student.grade }}</td>
-            <td class="p-2 font-semibold text-blue-700">{{ student.progress }}%</td>
-          </tr>
-        </tbody>
-      </table>
+      <div class="auto-scroll-table">
+        <table class="min-w-full">
+          <thead class="bg-blue-100 text-blue-800" role="table" aria-label="Top Students table">
+            <tr role="row">
+              <th role="columnheader" scope="col" class="p-2 text-left">#</th>
+              <th role="columnheader" scope="col" class="p-2 text-left">Name</th>
+              <th role="columnheader" scope="col" class="p-2 text-left">Grade</th>
+              <th role="columnheader" scope="col" class="p-2 text-left">Progress</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              v-for="(student, index) in topStudents"
+              :key="student.id"
+              class="border-b hover:bg-blue-50 dark:hover:bg-blue-900 dark:text-white"
+              tabindex="0"
+              @keydown.enter="() => {}"
+            >
+              <td class="p-2">{{ index + 1 }}</td>
+              <td class="p-2">{{ student.name }}</td>
+              <td class="p-2">{{ student.grade }}</td>
+              <td class="p-2 font-semibold text-blue-700">{{ student.progress }}%</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
     </section>
 
     <section class="bg-white dark:bg-black p-4 mt-4">
@@ -100,7 +104,7 @@
       <CoursePopularityChart :students="studentStore.students" />
     </section>
     <section
-      class="bg-white dark:bg-gray-800 p-4 mt-4 md:col-span-1"
+      class="bg-white dark:bg-black p-4 mt-4 md:col-span-1"
       v-if="roleText === 'Administrator'"
     >
       <h3 class="text-lg font-semibold text-gray-800 dark:text-white mb-4">
@@ -246,5 +250,9 @@ button {
 button:disabled {
   opacity: 0.5;
   cursor: not-allowed;
+}
+.auto-scroll-table {
+  width: 100%;
+  overflow: auto;
 }
 </style>
