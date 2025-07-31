@@ -1,33 +1,22 @@
-# student-progress-tracker
+# Student Progress Tracker (Vue 3 + Composition API + Tailwind CSS + TypeScript + Vite)
 
-This template should help get you started developing with Vue 3 in Vite.
+A responsive and accessible Vue 3 dashboard for tracking student progress, supporting dark mode, high contrast, and role-based views for Teachers and Administrators.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+---
 
 ## Project Setup
 
-```sh
+```bash
+# Clone the repository
+git clone https://github.com/username/student-progress-tracker.git
+cd student-progress-tracker
+
+# Install dependencies
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# Start the development server
 npm run dev
-```
 
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
+# Run mock API server
+npm run api
 ```
