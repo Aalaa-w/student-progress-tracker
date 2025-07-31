@@ -1,0 +1,6770 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Elizabeth Davis",
+      "grade": "Grade 7",
+      "subject": "English",
+      "progress": 100,
+      "lastActivity": "2025-07-22",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 70
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 9
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 24
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 37
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 56
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 76
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 92
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 100
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Tanya Johnson",
+      "grade": "Grade 9",
+      "subject": "English",
+      "progress": 50,
+      "lastActivity": "2025-07-24",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 30
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 15
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 21
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 29
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 38
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 54
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bradley Gilbert",
+      "grade": "Grade 9",
+      "subject": "Math",
+      "progress": 83,
+      "lastActivity": "2025-07-25",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 60
+        },
+        {
+          "name": "Science",
+          "score": 10
+        },
+        {
+          "name": "English",
+          "score": 30
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 11
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 31
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 51
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 58
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 74
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 94
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Tammy Jones",
+      "grade": "Grade 7",
+      "subject": "English",
+      "progress": 52,
+      "lastActivity": "2025-07-23",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 50
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 10
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 29
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 43
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 56
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 66
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 80
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Billy Fuller",
+      "grade": "Grade 9",
+      "subject": "Math",
+      "progress": 69,
+      "lastActivity": "2025-07-23",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 90
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 15
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 31
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 42
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 55
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 65
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 85
+        },
+        {
+          "date": "2025-07-01",
+          "progress": 91
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Mitchell Fry",
+      "grade": "Grade 7",
+      "subject": "Science",
+      "progress": 77,
+      "lastActivity": "2025-07-20",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 50
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 10
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 27
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 46
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 62
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 67
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Stacey Sullivan",
+      "grade": "Grade 9",
+      "subject": "English",
+      "progress": 31,
+      "lastActivity": "2025-07-25",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 30
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 17
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 25
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 37
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 49
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 68
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 78
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Alison Gill",
+      "grade": "Grade 6",
+      "subject": "Science",
+      "progress": 85,
+      "lastActivity": "2025-07-24",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 10
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 20
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 29
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 39
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 46
+        },
+        {
+          "date": "2025-06-26",
+          "progress": 60
+        },
+        {
+          "date": "2025-06-19",
+          "progress": 67
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Christopher Brown",
+      "grade": "Grade 6",
+      "subject": "Science",
+      "progress": 88,
+      "lastActivity": "2025-07-19",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 50
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 16
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 30
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 44
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 62
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 78
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Mark Valencia",
+      "grade": "Grade 9",
+      "subject": "Math",
+      "progress": 63,
+      "lastActivity": "2025-07-28",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 30
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 15
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 34
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 46
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 53
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 63
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Gabriel Sanchez",
+      "grade": "Grade 6",
+      "subject": "Math",
+      "progress": 23,
+      "lastActivity": "2025-07-27",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 50
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 12
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 30
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 50
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 61
+        },
+        {
+          "date": "2025-06-17",
+          "progress": 68
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 86
+        },
+        {
+          "date": "2025-07-01",
+          "progress": 100
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Lisa Lawrence",
+      "grade": "Grade 6",
+      "subject": "Math",
+      "progress": 47,
+      "lastActivity": "2025-07-21",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 50
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 8
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 19
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 34
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 52
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 67
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Sarah Daniels",
+      "grade": "Grade 6",
+      "subject": "English",
+      "progress": 77,
+      "lastActivity": "2025-07-22",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 70
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 13
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 23
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 32
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 47
+        },
+        {
+          "date": "2025-06-17",
+          "progress": 55
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Danielle Medina",
+      "grade": "Grade 8",
+      "subject": "Science",
+      "progress": 54,
+      "lastActivity": "2025-07-20",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 70
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 9
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 26
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 39
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 52
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 57
+        },
+        {
+          "date": "2025-06-26",
+          "progress": 64
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Samuel Payne",
+      "grade": "Grade 6",
+      "subject": "English",
+      "progress": 24,
+      "lastActivity": "2025-07-25",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 19
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 36
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 41
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 47
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 52
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 57
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Kathy Wood",
+      "grade": "Grade 6",
+      "subject": "Math",
+      "progress": 78,
+      "lastActivity": "2025-07-28",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 30
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 6
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 18
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 28
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 43
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 48
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Matthew Webb",
+      "grade": "Grade 7",
+      "subject": "English",
+      "progress": 60,
+      "lastActivity": "2025-07-27",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 90
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 16
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 23
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 33
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 47
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 53
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 72
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Aaron Ward",
+      "grade": "Grade 8",
+      "subject": "Math",
+      "progress": 32,
+      "lastActivity": "2025-07-28",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 60
+        },
+        {
+          "name": "Science",
+          "score": 10
+        },
+        {
+          "name": "English",
+          "score": 30
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 5
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 17
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 28
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 42
+        },
+        {
+          "date": "2025-06-17",
+          "progress": 48
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Joshua Smith",
+      "grade": "Grade 8",
+      "subject": "English",
+      "progress": 69,
+      "lastActivity": "2025-07-27",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 60
+        },
+        {
+          "name": "Science",
+          "score": 10
+        },
+        {
+          "name": "English",
+          "score": 30
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 15
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 34
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 52
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 64
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 78
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 89
+        },
+        {
+          "date": "2025-06-25",
+          "progress": 100
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Garrett Quinn",
+      "grade": "Grade 7",
+      "subject": "English",
+      "progress": 29,
+      "lastActivity": "2025-07-28",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 50
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 20
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 26
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 46
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 58
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 68
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 80
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Elizabeth Frederick",
+      "grade": "Grade 6",
+      "subject": "Math",
+      "progress": 100,
+      "lastActivity": "2025-07-21",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 50
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 6
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 20
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 37
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 46
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 51
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 60
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 67
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Cheryl Anderson",
+      "grade": "Grade 6",
+      "subject": "English",
+      "progress": 28,
+      "lastActivity": "2025-07-28",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 70
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 7
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 23
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 36
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 50
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 60
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Jeremy Keller",
+      "grade": "Grade 6",
+      "subject": "Math",
+      "progress": 97,
+      "lastActivity": "2025-07-26",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 60
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 20
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 39
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 56
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 69
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 84
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 99
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Monica Horton",
+      "grade": "Grade 8",
+      "subject": "Science",
+      "progress": 86,
+      "lastActivity": "2025-07-27",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 16
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 32
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 45
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 55
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 68
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 87
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Paul Chen",
+      "grade": "Grade 9",
+      "subject": "Science",
+      "progress": 97,
+      "lastActivity": "2025-07-23",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 70
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 16
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 30
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 38
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 51
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 70
+        },
+        {
+          "date": "2025-06-26",
+          "progress": 78
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Matthew Obrien",
+      "grade": "Grade 8",
+      "subject": "Science",
+      "progress": 31,
+      "lastActivity": "2025-07-19",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 30
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 16
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 26
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 36
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 45
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 63
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 76
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Erik Johnson",
+      "grade": "Grade 8",
+      "subject": "Science",
+      "progress": 94,
+      "lastActivity": "2025-07-25",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 30
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 15
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 20
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 36
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 56
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 73
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 87
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Seth Hart",
+      "grade": "Grade 9",
+      "subject": "English",
+      "progress": 78,
+      "lastActivity": "2025-07-26",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 70
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 10
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 26
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 35
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 42
+        },
+        {
+          "date": "2025-06-17",
+          "progress": 47
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Jesse Powers",
+      "grade": "Grade 6",
+      "subject": "English",
+      "progress": 65,
+      "lastActivity": "2025-07-26",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 60
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 5
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 16
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 33
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 44
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 53
+        },
+        {
+          "date": "2025-06-26",
+          "progress": 59
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Michael Parker",
+      "grade": "Grade 6",
+      "subject": "Math",
+      "progress": 59,
+      "lastActivity": "2025-07-22",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 60
+        },
+        {
+          "name": "Science",
+          "score": 10
+        },
+        {
+          "name": "English",
+          "score": 30
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 16
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 22
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 32
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 37
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 52
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 72
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 79
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Robin Stewart",
+      "grade": "Grade 6",
+      "subject": "English",
+      "progress": 36,
+      "lastActivity": "2025-07-26",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 80
+        },
+        {
+          "name": "English",
+          "score": 80
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 8
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 20
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 39
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 48
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 68
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 80
+        },
+        {
+          "date": "2025-07-01",
+          "progress": 90
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Karen Page",
+      "grade": "Grade 6",
+      "subject": "Science",
+      "progress": 33,
+      "lastActivity": "2025-07-28",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 50
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 11
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 26
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 42
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 48
+        },
+        {
+          "date": "2025-06-17",
+          "progress": 59
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 66
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 82
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Kevin Villa",
+      "grade": "Grade 7",
+      "subject": "Science",
+      "progress": 55,
+      "lastActivity": "2025-07-20",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 60
+        },
+        {
+          "name": "Science",
+          "score": 10
+        },
+        {
+          "name": "English",
+          "score": 30
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 19
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 33
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 50
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 65
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 76
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "John Baker",
+      "grade": "Grade 8",
+      "subject": "Math",
+      "progress": 79,
+      "lastActivity": "2025-07-19",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 70
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 11
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 30
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 36
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 55
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 70
+        },
+        {
+          "date": "2025-06-26",
+          "progress": 83
+        },
+        {
+          "date": "2025-07-01",
+          "progress": 100
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "John Mccoy",
+      "grade": "Grade 7",
+      "subject": "Science",
+      "progress": 79,
+      "lastActivity": "2025-07-21",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 60
+        },
+        {
+          "name": "Science",
+          "score": 10
+        },
+        {
+          "name": "English",
+          "score": 30
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 9
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 28
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 41
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 51
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 67
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 73
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Jason Ali",
+      "grade": "Grade 8",
+      "subject": "Science",
+      "progress": 40,
+      "lastActivity": "2025-07-23",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 60
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 6
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 26
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 40
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 53
+        },
+        {
+          "date": "2025-06-17",
+          "progress": 67
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 78
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Anthony Sanchez",
+      "grade": "Grade 6",
+      "subject": "Science",
+      "progress": 93,
+      "lastActivity": "2025-07-22",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 12
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 32
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 37
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 53
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 68
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 84
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Melanie Mclaughlin",
+      "grade": "Grade 8",
+      "subject": "Science",
+      "progress": 100,
+      "lastActivity": "2025-07-27",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 80
+        },
+        {
+          "name": "English",
+          "score": 80
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 19
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 26
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 38
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 48
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 58
+        },
+        {
+          "date": "2025-06-26",
+          "progress": 77
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Alexis Harris",
+      "grade": "Grade 6",
+      "subject": "Science",
+      "progress": 54,
+      "lastActivity": "2025-07-20",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 60
+        },
+        {
+          "name": "Science",
+          "score": 10
+        },
+        {
+          "name": "English",
+          "score": 30
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 5
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 13
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 27
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 40
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 56
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 64
+        },
+        {
+          "date": "2025-06-19",
+          "progress": 74
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Erik Young",
+      "grade": "Grade 7",
+      "subject": "Math",
+      "progress": 95,
+      "lastActivity": "2025-07-23",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 50
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 19
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 27
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 33
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 50
+        },
+        {
+          "date": "2025-06-17",
+          "progress": 59
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Jessica Davis",
+      "grade": "Grade 7",
+      "subject": "Math",
+      "progress": 38,
+      "lastActivity": "2025-07-20",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 60
+        },
+        {
+          "name": "Science",
+          "score": 10
+        },
+        {
+          "name": "English",
+          "score": 30
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 13
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 30
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 39
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 55
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 65
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Laura Jones",
+      "grade": "Grade 7",
+      "subject": "Math",
+      "progress": 95,
+      "lastActivity": "2025-07-27",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 50
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 11
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 23
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 37
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 50
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 55
+        },
+        {
+          "date": "2025-06-26",
+          "progress": 67
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Bruce Williamson",
+      "grade": "Grade 7",
+      "subject": "Math",
+      "progress": 76,
+      "lastActivity": "2025-07-26",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 70
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 9
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 25
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 33
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 45
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 59
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Kelly Williams",
+      "grade": "Grade 9",
+      "subject": "Science",
+      "progress": 80,
+      "lastActivity": "2025-07-24",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 90
+        },
+        {
+          "name": "English",
+          "score": 80
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 16
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 33
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 39
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 53
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 66
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 86
+        },
+        {
+          "date": "2025-07-01",
+          "progress": 97
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "James Mcintyre",
+      "grade": "Grade 6",
+      "subject": "English",
+      "progress": 33,
+      "lastActivity": "2025-07-22",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 60
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 10
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 25
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 44
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 51
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 58
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 68
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Shane Thompson",
+      "grade": "Grade 6",
+      "subject": "English",
+      "progress": 35,
+      "lastActivity": "2025-07-26",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 90
+        },
+        {
+          "name": "English",
+          "score": 80
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 12
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 29
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 41
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 57
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 71
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 83
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 90
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Crystal Collins",
+      "grade": "Grade 8",
+      "subject": "English",
+      "progress": 46,
+      "lastActivity": "2025-07-25",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 60
+        },
+        {
+          "name": "Science",
+          "score": 10
+        },
+        {
+          "name": "English",
+          "score": 30
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 16
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 36
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 50
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 60
+        },
+        {
+          "date": "2025-06-17",
+          "progress": 76
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Mr. Cory King",
+      "grade": "Grade 9",
+      "subject": "Math",
+      "progress": 49,
+      "lastActivity": "2025-07-21",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 90
+        },
+        {
+          "name": "English",
+          "score": 80
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 12
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 18
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 34
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 52
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 66
+        },
+        {
+          "date": "2025-06-26",
+          "progress": 75
+        },
+        {
+          "date": "2025-06-19",
+          "progress": 85
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Robert Smith",
+      "grade": "Grade 7",
+      "subject": "Science",
+      "progress": 81,
+      "lastActivity": "2025-07-25",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 60
+        },
+        {
+          "name": "Science",
+          "score": 10
+        },
+        {
+          "name": "English",
+          "score": 30
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 6
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 11
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 18
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 37
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 50
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Kelly Moreno",
+      "grade": "Grade 8",
+      "subject": "Science",
+      "progress": 97,
+      "lastActivity": "2025-07-20",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 14
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 31
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 48
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 65
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 71
+        },
+        {
+          "date": "2025-06-26",
+          "progress": 90
+        },
+        {
+          "date": "2025-06-19",
+          "progress": 100
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Ryan Johnson",
+      "grade": "Grade 7",
+      "subject": "English",
+      "progress": 34,
+      "lastActivity": "2025-07-20",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 70
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 16
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 33
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 53
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 59
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 68
+        },
+        {
+          "date": "2025-06-26",
+          "progress": 81
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Elizabeth Williams",
+      "grade": "Grade 7",
+      "subject": "English",
+      "progress": 79,
+      "lastActivity": "2025-07-22",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 90
+        },
+        {
+          "name": "English",
+          "score": 80
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 10
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 18
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 37
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 56
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 73
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 81
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Brad Norris",
+      "grade": "Grade 7",
+      "subject": "Math",
+      "progress": 33,
+      "lastActivity": "2025-07-23",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 60
+        },
+        {
+          "name": "Science",
+          "score": 10
+        },
+        {
+          "name": "English",
+          "score": 30
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 12
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 18
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 23
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 29
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 36
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 43
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Tabitha Silva",
+      "grade": "Grade 6",
+      "subject": "Math",
+      "progress": 87,
+      "lastActivity": "2025-07-19",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 60
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 9
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 18
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 37
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 43
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 51
+        },
+        {
+          "date": "2025-06-26",
+          "progress": 66
+        },
+        {
+          "date": "2025-07-01",
+          "progress": 83
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Olivia Caldwell",
+      "grade": "Grade 7",
+      "subject": "Science",
+      "progress": 40,
+      "lastActivity": "2025-07-21",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 20
+        },
+        {
+          "name": "Science",
+          "score": 90
+        },
+        {
+          "name": "English",
+          "score": 80
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 10
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 23
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 41
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 56
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 68
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 75
+        },
+        {
+          "date": "2025-06-25",
+          "progress": 92
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Jose Wallace",
+      "grade": "Grade 8",
+      "subject": "Science",
+      "progress": 94,
+      "lastActivity": "2025-07-27",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 70
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 80
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 11
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 19
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 31
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 42
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 50
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 59
+        },
+        {
+          "date": "2025-07-01",
+          "progress": 76
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Barbara Allen",
+      "grade": "Grade 7",
+      "subject": "Math",
+      "progress": 59,
+      "lastActivity": "2025-07-28",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 70
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 17
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 24
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 40
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 51
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 68
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "George Becker",
+      "grade": "Grade 8",
+      "subject": "English",
+      "progress": 25,
+      "lastActivity": "2025-07-19",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 70
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 6
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 18
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 33
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 39
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 52
+        },
+        {
+          "date": "2025-06-26",
+          "progress": 57
+        },
+        {
+          "date": "2025-06-19",
+          "progress": 76
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Taylor Miller",
+      "grade": "Grade 7",
+      "subject": "Math",
+      "progress": 97,
+      "lastActivity": "2025-07-27",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 50
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 6
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 20
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 25
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 33
+        },
+        {
+          "date": "2025-06-17",
+          "progress": 45
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Kimberly Taylor",
+      "grade": "Grade 7",
+      "subject": "Science",
+      "progress": 57,
+      "lastActivity": "2025-07-19",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 18
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 37
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 51
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 67
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 76
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 84
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Robert Hanson",
+      "grade": "Grade 9",
+      "subject": "Science",
+      "progress": 63,
+      "lastActivity": "2025-07-23",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 70
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 20
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 36
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 56
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 75
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 80
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 96
+        },
+        {
+          "date": "2025-06-19",
+          "progress": 100
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Cynthia Hall",
+      "grade": "Grade 9",
+      "subject": "Math",
+      "progress": 41,
+      "lastActivity": "2025-07-23",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 60
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 10
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 19
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 25
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 36
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 52
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 64
+        },
+        {
+          "date": "2025-06-19",
+          "progress": 80
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Scott Barber",
+      "grade": "Grade 7",
+      "subject": "Math",
+      "progress": 78,
+      "lastActivity": "2025-07-19",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 70
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 13
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 28
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 44
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 56
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 66
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 73
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 79
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Tristan Zavala",
+      "grade": "Grade 8",
+      "subject": "English",
+      "progress": 37,
+      "lastActivity": "2025-07-25",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 70
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 6
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 22
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 37
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 51
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 65
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Tara Johnson",
+      "grade": "Grade 9",
+      "subject": "Math",
+      "progress": 64,
+      "lastActivity": "2025-07-23",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 70
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 18
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 32
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 45
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 54
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 65
+        },
+        {
+          "date": "2025-06-26",
+          "progress": 84
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Christopher Glenn",
+      "grade": "Grade 7",
+      "subject": "Science",
+      "progress": 22,
+      "lastActivity": "2025-07-19",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 70
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 6
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 17
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 26
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 40
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 58
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 69
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 77
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Jennifer Riley",
+      "grade": "Grade 7",
+      "subject": "Science",
+      "progress": 65,
+      "lastActivity": "2025-07-28",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 14
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 30
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 46
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 54
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 70
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 85
+        },
+        {
+          "date": "2025-06-19",
+          "progress": 98
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Jeffrey Livingston",
+      "grade": "Grade 8",
+      "subject": "Math",
+      "progress": 98,
+      "lastActivity": "2025-07-20",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 70
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 14
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 29
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 36
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 56
+        },
+        {
+          "date": "2025-06-17",
+          "progress": 73
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Cathy Mitchell",
+      "grade": "Grade 9",
+      "subject": "English",
+      "progress": 62,
+      "lastActivity": "2025-07-21",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 70
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 17
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 23
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 43
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 50
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 62
+        },
+        {
+          "date": "2025-06-26",
+          "progress": 76
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Dr. Elizabeth Young",
+      "grade": "Grade 8",
+      "subject": "English",
+      "progress": 68,
+      "lastActivity": "2025-07-23",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 60
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 16
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 35
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 44
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 63
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 77
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Alexandra Hill",
+      "grade": "Grade 6",
+      "subject": "Math",
+      "progress": 41,
+      "lastActivity": "2025-07-19",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 50
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 17
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 32
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 40
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 48
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 68
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 82
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Jacqueline Shaw",
+      "grade": "Grade 7",
+      "subject": "English",
+      "progress": 22,
+      "lastActivity": "2025-07-24",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 90
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 7
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 15
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 35
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 45
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 60
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Heather Krueger",
+      "grade": "Grade 9",
+      "subject": "Math",
+      "progress": 41,
+      "lastActivity": "2025-07-21",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 70
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 6
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 16
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 22
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 33
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 38
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 57
+        },
+        {
+          "date": "2025-06-19",
+          "progress": 64
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Suzanne Franklin",
+      "grade": "Grade 9",
+      "subject": "Science",
+      "progress": 100,
+      "lastActivity": "2025-07-27",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 50
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 15
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 24
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 39
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 58
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 71
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 79
+        },
+        {
+          "date": "2025-06-19",
+          "progress": 92
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Michael Salazar",
+      "grade": "Grade 7",
+      "subject": "English",
+      "progress": 93,
+      "lastActivity": "2025-07-23",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 70
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 6
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 17
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 24
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 44
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 53
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Michele Lopez",
+      "grade": "Grade 9",
+      "subject": "Science",
+      "progress": 28,
+      "lastActivity": "2025-07-22",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 17
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 31
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 41
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 56
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 76
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 86
+        },
+        {
+          "date": "2025-06-19",
+          "progress": 94
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Melissa Brewer",
+      "grade": "Grade 7",
+      "subject": "English",
+      "progress": 88,
+      "lastActivity": "2025-07-24",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 90
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 18
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 33
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 50
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 63
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 68
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 77
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Stephen Young",
+      "grade": "Grade 7",
+      "subject": "English",
+      "progress": 100,
+      "lastActivity": "2025-07-27",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 20
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 27
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 41
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 60
+        },
+        {
+          "date": "2025-06-17",
+          "progress": 70
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 84
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 93
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Jessica Whitney",
+      "grade": "Grade 9",
+      "subject": "English",
+      "progress": 26,
+      "lastActivity": "2025-07-23",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 19
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 25
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 38
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 50
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 65
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 81
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Jesse Butler",
+      "grade": "Grade 9",
+      "subject": "Math",
+      "progress": 77,
+      "lastActivity": "2025-07-26",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 90
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 6
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 15
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 21
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 40
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 51
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Samuel Griffin",
+      "grade": "Grade 7",
+      "subject": "Math",
+      "progress": 89,
+      "lastActivity": "2025-07-24",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 70
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 14
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 32
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 51
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 71
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 76
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Scott Garcia",
+      "grade": "Grade 7",
+      "subject": "English",
+      "progress": 62,
+      "lastActivity": "2025-07-19",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 10
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 22
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 36
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 43
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 62
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Christopher Burns",
+      "grade": "Grade 7",
+      "subject": "English",
+      "progress": 47,
+      "lastActivity": "2025-07-25",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 60
+        },
+        {
+          "name": "Science",
+          "score": 10
+        },
+        {
+          "name": "English",
+          "score": 30
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 8
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 18
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 23
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 31
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 38
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Andrew Ortega",
+      "grade": "Grade 8",
+      "subject": "Science",
+      "progress": 46,
+      "lastActivity": "2025-07-24",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 60
+        },
+        {
+          "name": "Science",
+          "score": 10
+        },
+        {
+          "name": "English",
+          "score": 30
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 6
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 14
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 19
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 31
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 43
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 49
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 65
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Christina Peck",
+      "grade": "Grade 7",
+      "subject": "Math",
+      "progress": 42,
+      "lastActivity": "2025-07-26",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 8
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 15
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 22
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 42
+        },
+        {
+          "date": "2025-06-17",
+          "progress": 52
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Joshua Miller",
+      "grade": "Grade 8",
+      "subject": "English",
+      "progress": 77,
+      "lastActivity": "2025-07-25",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 70
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 12
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 30
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 39
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 49
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 64
+        },
+        {
+          "date": "2025-06-26",
+          "progress": 82
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Michelle Turner",
+      "grade": "Grade 6",
+      "subject": "English",
+      "progress": 30,
+      "lastActivity": "2025-07-21",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 5
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 10
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 25
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 38
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 58
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 64
+        },
+        {
+          "date": "2025-06-19",
+          "progress": 81
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Wendy Bishop",
+      "grade": "Grade 7",
+      "subject": "English",
+      "progress": 78,
+      "lastActivity": "2025-07-23",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 30
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 15
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 21
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 26
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 40
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 56
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 68
+        },
+        {
+          "date": "2025-06-19",
+          "progress": 81
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Tracy Strong",
+      "grade": "Grade 9",
+      "subject": "English",
+      "progress": 60,
+      "lastActivity": "2025-07-20",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 70
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 9
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 23
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 28
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 34
+        },
+        {
+          "date": "2025-06-17",
+          "progress": 40
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 45
+        },
+        {
+          "date": "2025-06-25",
+          "progress": 53
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Lisa Bryant",
+      "grade": "Grade 8",
+      "subject": "English",
+      "progress": 56,
+      "lastActivity": "2025-07-22",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 50
+        },
+        {
+          "name": "Science",
+          "score": 70
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 9
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 28
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 40
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 59
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 64
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 69
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Nathan King",
+      "grade": "Grade 9",
+      "subject": "Science",
+      "progress": 52,
+      "lastActivity": "2025-07-25",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 50
+        },
+        {
+          "name": "Science",
+          "score": 70
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 18
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 36
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 42
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 57
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 68
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 82
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Scott Blake",
+      "grade": "Grade 8",
+      "subject": "Math",
+      "progress": 67,
+      "lastActivity": "2025-07-20",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 20
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 6
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 24
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 38
+        },
+        {
+          "date": "2025-06-10",
+          "progress": 52
+        },
+        {
+          "date": "2025-06-17",
+          "progress": 64
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Gina Rodriguez",
+      "grade": "Grade 8",
+      "subject": "English",
+      "progress": 43,
+      "lastActivity": "2025-07-26",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 50
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 6
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 13
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 23
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 39
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 51
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 67
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Marcus Howard",
+      "grade": "Grade 8",
+      "subject": "Science",
+      "progress": 45,
+      "lastActivity": "2025-07-24",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 50
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 20
+        },
+        {
+          "date": "2025-06-06",
+          "progress": 26
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 35
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 47
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 57
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Victor Dunn",
+      "grade": "Grade 6",
+      "subject": "English",
+      "progress": 92,
+      "lastActivity": "2025-07-28",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 70
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 12
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 27
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 38
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 47
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 55
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Christopher Wright",
+      "grade": "Grade 6",
+      "subject": "Science",
+      "progress": 45,
+      "lastActivity": "2025-07-20",
+      "status": "Inactive",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 70
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 7
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 26
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 45
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 50
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 65
+        },
+        {
+          "date": "2025-06-26",
+          "progress": 71
+        },
+        {
+          "date": "2025-06-25",
+          "progress": 84
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Anne Meyers",
+      "grade": "Grade 7",
+      "subject": "Science",
+      "progress": 21,
+      "lastActivity": "2025-07-28",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "History Presentation",
+          "status": "pending",
+          "dueDate": "2025-08-08"
+        },
+        {
+          "title": "Biology Quiz",
+          "status": "completed",
+          "dueDate": "2025-07-28"
+        },
+        {
+          "title": "Chemistry Lab Report",
+          "status": "completed",
+          "dueDate": "2025-08-01"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 70
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 8
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 19
+        },
+        {
+          "date": "2025-06-07",
+          "progress": 39
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 53
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 58
+        },
+        {
+          "date": "2025-06-26",
+          "progress": 76
+        },
+        {
+          "date": "2025-07-01",
+          "progress": 90
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Joshua Wallace",
+      "grade": "Grade 6",
+      "subject": "Science",
+      "progress": 65,
+      "lastActivity": "2025-07-25",
+      "status": "Active",
+      "trend": "down",
+      "assignments": [
+        {
+          "title": "Geography Assignment",
+          "status": "pending",
+          "dueDate": "2025-08-15"
+        },
+        {
+          "title": "Computer Science Project",
+          "status": "completed",
+          "dueDate": "2025-07-30"
+        },
+        {
+          "title": "Art Portfolio",
+          "status": "overdue",
+          "dueDate": "2025-07-20"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 70
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 5
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 23
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 41
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 51
+        },
+        {
+          "date": "2025-06-17",
+          "progress": 61
+        },
+        {
+          "date": "2025-06-11",
+          "progress": 80
+        },
+        {
+          "date": "2025-06-19",
+          "progress": 100
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Rebecca Mcdowell",
+      "grade": "Grade 6",
+      "subject": "English",
+      "progress": 91,
+      "lastActivity": "2025-07-20",
+      "status": "Inactive",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Math Homework",
+          "status": "completed",
+          "dueDate": "2025-08-03"
+        },
+        {
+          "title": "Science Project",
+          "status": "pending",
+          "dueDate": "2025-08-10"
+        },
+        {
+          "title": "English Essay",
+          "status": "overdue",
+          "dueDate": "2025-07-25"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 50
+        },
+        {
+          "name": "Science",
+          "score": 50
+        },
+        {
+          "name": "English",
+          "score": 50
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 17
+        },
+        {
+          "date": "2025-06-04",
+          "progress": 36
+        },
+        {
+          "date": "2025-06-09",
+          "progress": 54
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 65
+        },
+        {
+          "date": "2025-06-13",
+          "progress": 70
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Brandi Reese",
+      "grade": "Grade 8",
+      "subject": "Math",
+      "progress": 28,
+      "lastActivity": "2025-07-21",
+      "status": "Active",
+      "trend": "up",
+      "assignments": [
+        {
+          "title": "Physics Homework",
+          "status": "completed",
+          "dueDate": "2025-07-29"
+        },
+        {
+          "title": "Arabic Essay",
+          "status": "pending",
+          "dueDate": "2025-08-06"
+        },
+        {
+          "title": "Music Practice",
+          "status": "completed",
+          "dueDate": "2025-07-27"
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 80
+        },
+        {
+          "name": "Science",
+          "score": 70
+        },
+        {
+          "name": "English",
+          "score": 90
+        }
+      ],
+      "activityData": [
+        {
+          "date": "2025-06-01",
+          "progress": 9
+        },
+        {
+          "date": "2025-06-03",
+          "progress": 17
+        },
+        {
+          "date": "2025-06-05",
+          "progress": 26
+        },
+        {
+          "date": "2025-06-16",
+          "progress": 42
+        },
+        {
+          "date": "2025-06-21",
+          "progress": 61
+        },
+        {
+          "date": "2025-06-26",
+          "progress": 81
+        },
+        {
+          "date": "2025-06-19",
+          "progress": 93
+        }
+      ]
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Sara Ahmed",
+      "subject": "Math",
+      "email": "sara@school.com"
+    },
+    {
+      "id": 2,
+      "name": "Hassan Tarek",
+      "subject": "English",
+      "email": "hassan@school.com"
+    },
+    {
+      "id": 3,
+      "name": "Laila Youssef",
+      "subject": "Science",
+      "email": "laila@school.com"
+    },
+    {
+      "id": 4,
+      "name": "Mostafa Gamal",
+      "subject": "History",
+      "email": "mostafa@school.com"
+    },
+    {
+      "id": 5,
+      "name": "Rana Saeed",
+      "subject": "Physics",
+      "email": "rana@school.com"
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "message": "New assignment added to Math class."
+    },
+    {
+      "id": 2,
+      "message": "Student Ahmed just submitted his homework."
+    },
+    {
+      "id": 3,
+      "message": "System maintenance scheduled on Friday."
+    },
+    {
+      "id": 4,
+      "message": "New teacher account created: Ms. Salma."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Sara Ahmed", "subject": "Math", "email": "sara@school.com" },
+  { "id": 2, "name": "Hassan Tarek", "subject": "English", "email": "hassan@school.com" },
+  { "id": 3, "name": "Laila Youssef", "subject": "Science", "email": "laila@school.com" },
+  { "id": 4, "name": "Mostafa Gamal", "subject": "History", "email": "mostafa@school.com" },
+  { "id": 5, "name": "Rana Saeed", "subject": "Physics", "email": "rana@school.com" }
+]
